@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alvin Gumapac</h1>
+<h1 align="center">Hi 👋, you can call me Al!</h1>
 <h3 align="center">A passionate full-stack development learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steghack&label=Profile%20views&color=0e75b6&style=flat" alt="steghack" /> </p>
 
-- 🔭 I’m currently working on an **HTML Basic Table Challenge**
+- 🔭 I’m currently working on an **HTML Basic Table Challenge** (this will change DAILY)
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **HTML & CSS** and having a blast!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
